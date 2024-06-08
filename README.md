@@ -10,7 +10,7 @@ When I am not studying or participating in Hackathons, you will find me in my wa
 
 *******
 
-Looking forward to collaborating with individuals who, like me, desire to put the world to rights, one code at a time. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
+Looking forward to collaborating with individuals who, like me, are determined to put the world to rights, one code at a time. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
 You can reach me on: <a href="https://www.linkedin.com/in/bola-akinmarin"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 
