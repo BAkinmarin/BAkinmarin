@@ -18,7 +18,7 @@ You can reach me on: <a href="https://www.linkedin.com/in/bola-akinmarin"><img  
 
 *******
  
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Project Portfolio
+## Project Portfolio
 
  1. [Period Tracker](https://)
  2. [Cleaning Business Website](https://)
