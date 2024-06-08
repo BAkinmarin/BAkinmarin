@@ -20,8 +20,7 @@ You can reach me on: <a href="https://www.linkedin.com/in/bola-akinmarin"><img  
  
 ## Project Portfolio
 
- 1. [Period Tracker](https://)
- 2. [Cleaning Business Website](https://)
+ 1. [Cleaning Business Website](https://)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,python,stackoverflow&perline=13)](#)
