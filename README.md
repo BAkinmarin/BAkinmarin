@@ -21,6 +21,7 @@ You can reach me on: <a href="https://www.linkedin.com/in/bola-akinmarin"><img  
 ## Project Portfolio
 
  1. [Cleaning Business Website](https://bakinmarin.github.io/the-cleaning-hack/)
+ 2. [Bible Quiz Game Website](https://bakinmarin.github.io/bible-quiz-game/)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,python,stackoverflow&perline=13)](#)
