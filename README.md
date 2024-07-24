@@ -4,7 +4,7 @@
 
 My name is **Bola**, a People Professional with over a decade's worth of experience, determined to transition into a fulfilling career as a Software Developer.
 
-Currently working towards a Level 5 Diploma in Full Stack Software Development with Code Institute.
+Currently working towards a Diploma in Full Stack Software Development with Code Institute.
 
 When I am not studying or participating in Hackathons, you will find me in my walking boots deep in the woods, at the Theatre or at the cinema.
 
