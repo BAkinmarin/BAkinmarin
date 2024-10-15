@@ -14,7 +14,7 @@ Looking forward to collaborating with individuals who, like me, are determined t
 
 You can reach me on: <a href="https://www.linkedin.com/in/bola-akinmarin"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 
-[- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>]::
+[- Currently working on Exterior Cleaning Business Interactive Estimate Form <a href="https://bakinmarin.github.io/dec-quote-calculator/"></a>]::
 
 *******
  
@@ -22,8 +22,7 @@ You can reach me on: <a href="https://www.linkedin.com/in/bola-akinmarin"><img  
 
  1. [Cleaning Business Website](https://bakinmarin.github.io/the-cleaning-hack/)
  2. [Bible Quiz Game Website](https://bakinmarin.github.io/bible-quiz-game/)
- 3. [Command Line Cleaning Calculator](https://the-cleaning-hack-calculator-7f6b677fafbc.herokuapp.com/) - In Progress
- 4. [Exterior Cleaning Business Interactive Estimate Form](https://bakinmarin.github.io/dec-quote-calculator/) - In Progress
+ 3. [Command Line Cleaning Calculator](https://the-cleaning-hack-calculator-7f6b677fafbc.herokuapp.com/)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,python,stackoverflow&perline=13)](#)
