@@ -20,8 +20,8 @@ You can reach me on: <a href="https://www.linkedin.com/in/bola-akinmarin"><img  
  
 ## Project Portfolio
 
- 1. [Cleaning Business Website](https://bakinmarin.github.io/the-cleaning-hack/)
- 2. [Bible Quiz Game Website](https://bakinmarin.github.io/bible-quiz-game/)
+ 1. [Bible Quiz Game Website](https://bakinmarin.github.io/bible-quiz-game/)
+ 2. [Cleaning Business Website](https://bakinmarin.github.io/the-cleaning-hack/)
  3. [Command Line Cleaning Calculator](https://the-cleaning-hack-calculator-7f6b677fafbc.herokuapp.com/)
  4. [Interactive Exterior Cleaning Estimate Form](https://bakinmarin.github.io/dec-quote-calculator/)
 
