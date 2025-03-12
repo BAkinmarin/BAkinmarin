@@ -1,6 +1,8 @@
 # Hello and Welcome! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-<h2>Junior Full Stack Software Developer</h2>
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer)]()
+
+<!--<h2>Junior Full Stack Software Developer</h2>-->
 
 My name is **Bola**, a People Professional with over a decade's worth of experience, determined to transition into a fulfilling career as a Software Developer.
 
