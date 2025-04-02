@@ -27,7 +27,7 @@ You can reach me on: <a href="https://www.linkedin.com/in/bola-akinmarin"><img  
  5. [Interactive Exterior Cleaning Estimate Form](https://bakinmarin.github.io/dec-quote-calculator/)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,python,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,python,django,jquery,stackoverflow&perline=13)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
