@@ -22,7 +22,7 @@ You can reach me on: <a href="https://www.linkedin.com/in/bola-akinmarin"><img  
 
  1. [Film Review Blog](https://my-film-blog-pp4-d9dc642517af.herokuapp.com/)
  2. [Bible Quiz Game Website](https://bakinmarin.github.io/bible-quiz-game/)
- 3. [Cleaning Business Website](https://bakinmarin.github.io/the-cleaning-hack/)
+ 3. [The Cleaning Hack Website](https://bakinmarin.github.io/the-cleaning-hack/)
  4. [Command Line Cleaning Calculator](https://the-cleaning-hack-calculator-7f6b677fafbc.herokuapp.com/)
  5. [Interactive Exterior Cleaning Estimate Form](https://bakinmarin.github.io/dec-quote-calculator/)
 
