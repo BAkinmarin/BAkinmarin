@@ -10,7 +10,7 @@ When I am not studying, reading or listening to a podcast, you will find me in m
 
 *******
 
-Open to collaborations with like-minded individuals, so if that's you, then get in Touch: <br><br>
+Open to opportunities for collaborations with like-minded individuals, so if that's you, then get in Touch: <br><br>
 <a href="https://www.linkedin.com/in/bola-akinmarin"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 
 [- Currently working on E-commerce Website <a href="https://bakinmarin.github.io/dec-quote-calculator/"></a>]::
