@@ -1,20 +1,19 @@
-# Hello and Welcome! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+# Hey you! Welcome to Bola's GitHub! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Junior+Full+Stack+Developer)]()
 
-My name is **Bola**, a People Professional with over a decade's worth of experience, determined to transition into a fulfilling career as a Software Developer.
+I love learning, ideating, designing, developing practical solutions to people problems, and ultimately using all I learn to help people and businesses put the world to rights one code at a time!
 
-Currently working towards a Diploma in Full Stack Software Development with Code Institute.
+Currently working towards a Diploma in Full Stack Software Development with Code Institute and excited to see what sort of solutions I come up with as a result of this journey.
 
-When I am not studying or participating in Hackathons, you will find me in my walking boots deep in the woods, at the Theatre or at the cinema.
+When I am not studying, reading or listening to a podcast, you will find me in my walking boots deep in the woods, at the theatre / cinema or church!
 
 *******
 
-Looking forward to collaborating with individuals who, like me, are determined to put the world to rights, one code at a time. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
+Open to collaborations with like-minded individuals, so if that's you, then get in Touch: <br><br>
+<a href="https://www.linkedin.com/in/bola-akinmarin"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 
-You can reach me on: <a href="https://www.linkedin.com/in/bola-akinmarin"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
-
-[- Currently working on Exterior Cleaning Business Interactive Estimate Form <a href="https://bakinmarin.github.io/dec-quote-calculator/"></a>]::
+[- Currently working on E-commerce Website <a href="https://bakinmarin.github.io/dec-quote-calculator/"></a>]::
 
 *******
  
